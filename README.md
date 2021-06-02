@@ -1,2 +1,4 @@
 # Bash-Script
-Linux-auto 
+Linux-Automation-scripts 
+And customize powerline-theme
+
